@@ -1,0 +1,37 @@
+ATIVIDADE EM GRUPO - O ALGORITMO DO SANDUÍCHE
+==============================================
+Grupo: ______________________________________
+
+Missão: escrevam, passo a passo, como fazer um sanduíche de
+geleia de morango com manteiga de amendoim.
+
+Imaginem que quem vai seguir as instruções é um robô que
+NÃO sabe nada e faz EXATAMENTE o que está escrito.
+
+1ª VERSÃO (antes do vídeo)
+--------------------------
+Passo 1:
+Passo 2:
+Passo 3:
+Passo 4:
+Passo 5:
+(adicionem quantos passos precisarem)
+
+
+2ª VERSÃO (depois do vídeo - corrigida)
+---------------------------------------
+O que faltou na 1ª versão? Que passos o robô não entenderia?
+
+Passo 1:
+Passo 2:
+Passo 3:
+Passo 4:
+Passo 5:
+(adicionem quantos passos precisarem)
+
+
+REFLEXÃO
+--------
+1) Quantos passos tinha a 1ª versão? E a 2ª?
+2) Qual foi o erro mais engraçado/grave que o robô cometeria?
+3) Que relação isso tem com escrever um programa de computador?
